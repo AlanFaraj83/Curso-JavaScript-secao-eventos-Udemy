@@ -1,2 +1,2 @@
-# Curso-JavaScript-secao-eventos-Udemy
-Curso JavaScript: Seção eventos com Udemy
+# Curso JavaScript secao eventos(Udemy)
+
